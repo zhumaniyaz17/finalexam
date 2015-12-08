@@ -1,0 +1,5 @@
+According to the Linux filesystem hierarchy standard, which of the following directories would be an appropriate location for a user to install a shared application to?
+a)/sbin
+b)/dev/user/bin
+c)/usr/local/bin
+d)/etc/bin
