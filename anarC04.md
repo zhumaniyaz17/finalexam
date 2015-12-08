@@ -1,4 +1,4 @@
-Which OS is the best?
+Which of this OS is created by Linus Torvald?
 Windows
 Linux
 Ubuntu
