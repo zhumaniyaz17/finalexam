@@ -1,5 +1,5 @@
-There goes some question.
-* a
-* b 
-* **c**
-* d
+ Elaborate on the following color spaces.
+*  Gray scale
+*  **RGB**
+* HSV/HSL
+* CIE Lxaxb
