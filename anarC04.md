@@ -1,4 +1,4 @@
-Which of this OS is created by Linus Torvald?
+Which of this OS is created by Linus Torvalds?
 Windows
 Linux
 Ubuntu
