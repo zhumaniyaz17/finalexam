@@ -2,7 +2,6 @@
 ```C
 int main(){
   fork();
-  fork();
 }
 ```
 * **1**
