@@ -1,5 +1,7 @@
 #How to prepare for the final exam
-#####Fork this project and pull/clone it down to your local machine
+#####Fork this project on github and pull/clone it down to your local machine
+* to clone enter ``git clone https://github.com/konsteacher/finalexam.git`` in the shell
+* to pull from your fork on github to update your local master branch type ``git pull origin master``
 #####Create 10 multiple-choice questions on the following topics and commit the changes and push them up to your fork
   * Computer system concepts (including OS concepts)
   * Linux System Concepts
