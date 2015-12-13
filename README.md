@@ -20,25 +20,10 @@
 #####Sample question
 Create question file for each question using ``mktemp question_XXXXX --sufix=.md`` command.
 By doing so you will reduce the chances of collisions with your peers (hopefully)
-while following a uniform format.
+while following a uniform format. These are some sample questions:
+*  [a linux question](./linux/question_VIbGj.md)
+*  [a syspro question](./syspro/question_cEIjN.md)
+*  [a syspro question](./syspro/question_dq4CB.md)
 
-
-***
-  How many processes including the parent will be created by the following code?
-  ```C
-  #include <unistd.h>
-  int main(){
-    if (!fork()){
-      fork();
-    }
-  }
-  ```
-  * 2
-  * 3
-  * 4
-  * 5
-  * 8
-
-***
 #####Make pull request to the base project
 #####Keep updated with the base project
