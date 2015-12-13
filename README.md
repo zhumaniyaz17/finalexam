@@ -8,7 +8,7 @@
   * Computer system concepts (including OS concepts)
   * Linux System Concepts
     * Basic and not-so-basic commands
-    * Files and filesystem 
+    * Files and filesystem
     * Users and permissions
     * Shell scripting and process environment
   * Linux system programming
@@ -18,7 +18,10 @@
   * Git/Github Concepts
 
 #####Sample question
-Create question file using ``mktemp question_XXXXX --sufix=.md`` command.
+Create question file for each question using ``mktemp question_XXXXX --sufix=.md`` command.
+By doing so you will reduce the chances of collisions with your peers (hopefully)
+while following a uniform format.
+
 
 ***
   How many processes including the parent will be created by the following code?
@@ -35,8 +38,7 @@ Create question file using ``mktemp question_XXXXX --sufix=.md`` command.
   * 4
   * 5
   * 8
-  
+
 ***
 #####Make pull request to the base project
 #####Keep updated with the base project
-
