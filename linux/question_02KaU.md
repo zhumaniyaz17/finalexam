@@ -1,8 +1,8 @@
 What happens when you smoke too much?
 ```
-_______________________________
-( Привет, закурить не найдется? )
--------------------------------
+_________________________
+( Hi buddy, have a light? )
+-------------------------
        o   ^__^
         o  (oo)\_______
            (__)\       )\/\
@@ -10,8 +10,8 @@ _______________________________
                ||     ||
 ```
 
-* ``cowsay "Привет, закурить не найдется?"``
-* ``dogsay "Привет, закурить не найдется?"``
-* ``bullsay "Привет, закурить не найдется?"``
-* ``asssay "Привет, закурить не найдется?"``
-* ``bullthink "Привет, закурить не найдется?"``
+* ``cowsay "Hi buddy, have a light?"``
+* ``dogsay "Hi buddy, have a light?"``
+* ``bullsay "Hi buddy, have a light?"``
+* ``asssay "Hi buddy, have a light?"``
+* ``bullthink "Hi buddy, have a light?"``
