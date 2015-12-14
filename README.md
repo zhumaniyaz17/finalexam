@@ -4,7 +4,7 @@
 * to clone enter ``git clone https://github.com/konsteacher/finalexam.git`` in the shell
 * to pull from your fork on github to update your local master branch type ``git pull origin master``
 
-#####Create 10 multiple-choice questions on the following topics and commit the changes and push them up to your fork until **~~``Dec 25``~~ ``Dec 23``** (give me 4 days to generate exams and print them out)
+#####Create 10 multiple-choice questions on the following topics and commit the changes and push them up to your fork until ~~``Dec 25``~~ ``Dec 23`` (give me ~~``2``~~ ``4`` days to generate exams and print them out)
 
   * Computer system concepts (including OS concepts)
   * Linux System Concepts
