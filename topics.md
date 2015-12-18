@@ -5,9 +5,10 @@
   * Users and permissions
   * Shell scripting and process environment
 * Linux system programming -> [syspro](./syspro/)
-  * Process creation and management
-  * IPC mechanisms
-  * Multithreading using pthreads
+ * System programming concepts  
+ * Process creation and management
+ * IPC mechanisms
+ * Multithreading using pthreads
 * Git/Github Concepts -> [git](./git/)
 
 
