@@ -4,19 +4,17 @@
 * to clone enter ``git clone https://github.com/konsteacher/finalexam.git`` in the shell
 * to pull from your fork on github to update your local master branch type ``git pull origin master``
 
-#####Create 10 multiple-choice questions on the following topics and commit the changes and push them up to your fork until ~~``Dec 25``~~ ``Dec 23`` (give me ~~``2``~~ ``4`` days to generate exams and print them out)
+#####Create 10 multiple-choice questions on the following topics, commit the changes, push them up to your fork.
+* The questions fall into [these](./topics.md) categories.
+* Each category is under separate directory.
+* Try to make questions on all categories.
 
-  * Computer system concepts (including OS concepts)
-  * Linux System Concepts
-    * Basic and not-so-basic commands
-    * Files and filesystem
-    * Users and permissions
-    * Shell scripting and process environment
-  * Linux system programming
-    * Process creation and management
-    * IPC mechanisms
-    * Multithreading using pthreads
-  * Git/Github Concepts
+#####Make pull request to the base project until ~~``Dec 25``~~ ``Dec 23``.
+* Give me ~~``2``~~ ``4`` days to add my own questions (that I haven't added yet), generate exam variants and print them out.
+#####Keep updated with the base project
+* There are several ways how to keep up to date with base fork (hmmm sounds as a decent question for the final :) )
+ * one way is to make pull request to your fork from the base fork using Github website
+ * another way is to create a remote reference to base fork by giving it a name, for example ``upstream``, and then pull down ``upstream/master`` to your local repo and push it to your Github fork.
 
 #####Sample question
 Create question file for each question using ``mktemp question_XXXXX --sufix=.md`` command.
@@ -27,6 +25,3 @@ while following a uniform format. These are some sample questions:
 *  [a syspro question](./syspro/question_dq4CB.md)
 *  [a git question](./git/question_ehV2y.md)
 *  [a general question] (./general/question_mJ6vt.md)
-
-#####Make pull request to the base project
-#####Keep updated with the base project
