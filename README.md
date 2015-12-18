@@ -3,7 +3,7 @@
 #####Fork this project on Github and clone it down to your local machine
 * to clone enter ``git clone https://github.com/konsteacher/finalexam.git`` in the shell
 
-#####Compose 10 multiple-choice questions on the following topics, commit the changes, push them up to your fork.
+#####Cook up 10 multiple-choice questions on the following topics, commit the changes, push them up to your fork.
 * For each composed question you get **``1 point``** to the total grade.
 * Create question file for each question using ``mktemp question_XXXXX --sufix=.md`` command. By doing so you will reduce the chances of collisions with your peers (hopefully) while following a uniform format.
 * The questions fall into [these](./topics.md) topics.
