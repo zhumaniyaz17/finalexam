@@ -15,10 +15,3 @@
 #####Keep updated with the base project
 * one way is to make pull request to your fork from the base repo using Github website and then pull from your fork to update your local master branch  by typing ``git pull origin master``
 * another way is to create a remote reference to the base repo by giving it a name, for example ``upstream``, by typing ``git remote add upstream https://github.com/konsteacher/finalexam.git`` and then pull down ``upstream/master`` to your local repo and push it up to your Github fork.
-
-##### All question added so far
-* [general] (./general/)
-* [linux](./linux/)
-* [syspro](./syspro/)
-* [git](./git/)
-
