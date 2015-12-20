@@ -15,3 +15,4 @@ _________________________
 * ``bullsay "Hi buddy, have a light?"``
 * ``asssay "Hi buddy, have a light?"``
 * ``bullthink "Hi buddy, have a light?"``
+* none of the answers is true
