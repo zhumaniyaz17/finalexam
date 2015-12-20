@@ -1,7 +1,7 @@
-Two files that refer to the same inode on the same partition
+Two files that refer to the same inode on the same partition.
 
 * soft links
-* hard links
++ hard links
 * aliases
 * mount points
 * shortcuts
