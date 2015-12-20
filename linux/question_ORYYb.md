@@ -2,7 +2,8 @@ Which command will count how many questions there are in the ``finalexam`` proje
 
 * ``ls * | wc -w``
 * ``ls * | grep '.*\.md$' | wc -l``
-* ``echo * | grep [a-z] | wc -l``
-* ``ls * | grep ^q | wc -c``
+* ``echo * | grep '[a-zA-Z0-9_]*\.md' | wc -w``
+* ``ls * | grep '^q' | wc -c``
 * ``ls * | wc -l``
 * ``ls * | grep -c '.*\.md$'``
+* none option is correct
