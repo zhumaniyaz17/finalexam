@@ -1,7 +1,8 @@
 Which of the following is not a hidden file?
 
-* ./a.out
++ ./hidden
 * .
-* nothidden
+* ../.nothidden
 * ..
-* .nothidden
+* .hidden
++ ../hiddennot
