@@ -5,3 +5,4 @@ A command that shows ownerships, permissions and inode numbers of all the files 
 * ``ls -ald``
 * ``ls -li``
 * ``ls -il``
+* none option is true
