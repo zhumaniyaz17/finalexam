@@ -1,7 +1,8 @@
-Which of the following commands prints all the files in the current directory including hidden ones?
+Which of the following commands prints all the files in the current directory including all hidden files?
 
-* ``ls -a``
 * ``ls -l``
 * ``echo *``
 * ``ls -d``
-* ``ls .*``
++ ``ls -a``
+* ``ls *``
+* ``ls -A``
