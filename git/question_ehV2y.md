@@ -5,6 +5,6 @@ A system that stores the versions of your files only for 30 days
 * git
 * mercurial
 * github
-* dropbox
++ dropbox
 * google drive
 * wikipedia
