@@ -1,8 +1,8 @@
-The operating system abstraction for a running program.
+The operating system's abstraction for a running program.
 
 * shell
 * file
-* process
++ process
 * kernel
 * abscess
 * progress
