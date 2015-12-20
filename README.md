@@ -9,6 +9,7 @@
 * The questions fall into [these](./topics.md) topics.
 * Each topics is under separate directory.
 * Try to make questions on all the topics.
+* Mark correct answers with **``+``** (plus) instead of **``*``** (asterisk) if you wish.
 
 #####Make pull request to the base project until ~~``Dec 25``~~ ``Dec 23``.
 * Give me ~~``2``~~ ``4`` days to add my own questions (that I haven't added yet), generate exam variants and print them out.
