@@ -15,8 +15,8 @@
 * Mark correct answers with **``+``** (plus) instead of **``*``** (asterisk) if you wish to mark correct questions.
 * **``IMPORTANT IS TO GET YOUR QUESTIONS PULLED BY THE BASE PROJECT``**
 
-##### Make pull request to the base project until ~~``Dec 25``~~ ``Dec 23``.
-* Give me ~~``2``~~ ``4`` days to add my own questions (that I haven't added yet), generate exam variants and print them out.
+##### Make pull request to the base project until ``Dec 25``.
+* Give me ``2`` days to add my own questions (that I haven't added yet), generate exam variants and print them out.
 
 ##### Keep updated with the base project
 * one way is to make pull request to your fork from the base repo using Github website and then pull from your fork to update your local master branch  by typing ``git pull origin master``
