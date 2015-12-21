@@ -4,7 +4,7 @@
 # How to prepare for the final exam
 
 ##### Fork this project on Github and clone it down to your local machine
-* to clone enter ``git clone https://github.com/konsteacher/finalexam.git`` in the shell
+* to clone enter ``git clone https://github.com/``**``your_account_name``**``/finalexam.git`` in the shell
 
 ##### Cook up 10 multiple-choice questions on the following topics, commit the changes, push them up to your fork.
 * For each composed question you get **``1 point``** to the total grade.
