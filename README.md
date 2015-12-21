@@ -1,3 +1,6 @@
+#``Come on guys add your questions!!!``
+##``Otherwise I'll have to add my own questions and that will reduce your chances to come up with nice original questions of your own``
+
 # How to prepare for the final exam
 
 ##### Fork this project on Github and clone it down to your local machine
