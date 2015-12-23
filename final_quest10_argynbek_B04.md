@@ -1,5 +1,5 @@
 +10. ______ command gives informatino about everything in ubuntu.
-+*grep
-+*ls
-+*pwd
++grep
++ls
++pwd
 ++man
