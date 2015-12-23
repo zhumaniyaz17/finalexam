@@ -1,6 +1,3 @@
-#``Come on guys add your questions!!!``
-####``Otherwise I'll have to add my own questions and that will reduce your chances to come up with nice original questions of your own. That will also reduce your chances to have in the exam the questions that you really studied.``
-
 # How to prepare for the final exam
 
 ##### Fork this project on Github and clone it down to your local machine
@@ -23,5 +20,6 @@
 * another way is to create a remote reference to the base repo by giving it a name, for example ``upstream``, by typing ``git remote add upstream https://github.com/konsteacher/finalexam.git`` and then pull down ``upstream/master`` to your local repo and push it up to your Github fork.
 
 ##### Some hacks:
-Besides seeing your questions in Github you can use ``pandoc`` utility to create .html, .pdf, .doc, .odt and many more formats from .md file of a question by typing something like ``pandoc question.md -o question.html``
+* Besides seeing your questions in Github you can use ``pandoc`` utility to create .html, .pdf, .doc, .odt and many more formats from .md file of a question by typing something like ``pandoc question.md -o question.html``
 Of course you have to install ``pandoc`` by typing ``sudo apt-get install pandoc`` in Debian systems and something similar in other systems.
+* It seems to be a good idea to watch commit history to obtain an extra information about the final.
