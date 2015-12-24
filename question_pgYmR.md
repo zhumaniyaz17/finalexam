@@ -1,6 +1,6 @@
 How many processes will be here?
 
-'''C
+```C
 int main(){
 fork();
 fork();
@@ -9,7 +9,7 @@ fork();
 return 0;
 }
 
-'''
+```
 
 * 10
 * 18
