@@ -1,6 +1,6 @@
 Which command removes directory recurcively?
 
 * ```rmdir```
-* ```rm -rf
+* ```rm -rf```
 * ```rmdir -rf```
 * ```rf -rm```
