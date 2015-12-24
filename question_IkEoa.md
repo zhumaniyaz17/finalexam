@@ -1,4 +1,4 @@
-Which one of this is low-level package manager?
+Which one of this is lowest level package manager?
 
 * apt-get
 * Software Center
