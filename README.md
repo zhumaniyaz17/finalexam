@@ -5,7 +5,7 @@
 
 ##### Cook up 10 multiple-choice questions on the following topics, commit the changes, push them up to your fork.
 * For each composed question you get **``1 point``** to the total grade.
-* Create question file for each question using ``mktemp question_XXXXX --sufix=.md`` command. By doing so you will reduce the chances of collisions with your peers (hopefully) while following a uniform format.
+* Create question file for each question using ``mktemp question_XXXXX --suffix=.md`` command. By doing so you will reduce the chances of collisions with your peers (hopefully) while following a uniform format.
 * The questions fall into [these](./topics.md) topics.
 * Each topics is under separate directory.
 * Try to make questions on all the topics.
