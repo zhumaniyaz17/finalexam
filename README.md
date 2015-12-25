@@ -1,5 +1,5 @@
 ##### ``Dec 26 (Saturday)`` is the time for fixes, updates from my side and yours etc. 
-##### ``Dec 27 (Sunday)`` is the time last fixes and printing out. Keep in touch.
+##### ``Dec 27 (Sunday)`` is the time for the last fixes and printing outs. Keep in touch.
 
 # How to prepare for the final exam
 
