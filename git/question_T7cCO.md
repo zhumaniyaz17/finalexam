@@ -1,4 +1,4 @@
-What output will be ```git branch``` if you have not a branches?
+What output will be ```git branch``` if you have main a branch?
 
 * ```master```
 * ```* master```
