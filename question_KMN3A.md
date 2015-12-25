@@ -1,5 +1,5 @@
-The _____ program relies on the sysfs file system. 
-sdev 
-+udev 
-pdev 
-jdev
+ The _____ program relies on the sysfs file system. 
+* sdev 
++ udev 
+* pdev 
+* jdev
