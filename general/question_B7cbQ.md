@@ -1,4 +1,4 @@
-What makes Unix operating system is portable?
+What makes Unix operating system portable?
 * it is free
 * it has many features like shells, pipes, files
 * it is small

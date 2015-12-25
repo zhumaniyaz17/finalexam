@@ -4,5 +4,3 @@ A collection of process groups ( jobs):
 * thread
 * semaphore
 * socket
-
-
