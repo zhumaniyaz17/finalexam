@@ -1,5 +1,6 @@
 ##### ``Dec 26 (Saturday)`` is the time for fixes, updates from my side and yours etc. 
-##### ``Dec 27 (Sunday)`` is the time for the last fixes, exam generation and ``studying the question pool``. Keep in touch.
+##### ``Dec 27 (Sunday)`` is the time for the last fixes, exam generation and ``studying the question pool``.
+#####  Keep in touch.
 
 # How to prepare for the final exam
 
