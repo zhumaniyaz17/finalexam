@@ -1,3 +1,5 @@
+##### ``Dec 26 (Saturday)`` is the time for fixes, updates from my side and your etc. Keep in touch.
+
 # How to prepare for the final exam
 
 ##### Fork this project on Github and clone it down to your local machine
