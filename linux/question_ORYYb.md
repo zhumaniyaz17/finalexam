@@ -6,4 +6,4 @@ Which command will count how many questions there are in the ``finalexam`` proje
 * ``ls * | grep '^q' | wc -c``
 * ``ls * | wc -l``
 * ``ls * | grep -c '.*\.md$'``
-* none option is correct
++ none option is correct
