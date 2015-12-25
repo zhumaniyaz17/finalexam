@@ -1,5 +1,5 @@
-Encode the abbrevation FIFO? +Flip input,flop out.
-Federation IT
-fist organization. 
-+First in, first out. 
-All above them.
+ Encode the abbrevation FIFO? 
+* Flip input,flop out.
+* Federation IT output
++ First in, first out. 
+*none of them.
