@@ -1,4 +1,4 @@
-Shortcut of copy:
+Shortcut to copy in
 
 + Ctrl+Shift+C
 * Ctrl+C
