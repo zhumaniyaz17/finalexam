@@ -1,6 +1,7 @@
-Which command adds user "dulat" to group "usersgroup"?
+A command that adds user ``dulat`` to group ``retakers``.
 
-+	gpasswd –a dulat usersgroup
-*	gpasswd -d dulat usersgroup
-*	passwd dulat usersgroup	
-*	passwd usersgroup dulat
+*	``gpasswd -d dulat retakers``
+*	``passwd -a dulat retakers``
+*	``passwd dulat retakers``
+*	``useradd -a dulat retakers``
++ ``gpasswd -a dulat retakers``

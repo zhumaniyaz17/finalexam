@@ -1,9 +1,9 @@
-Which of the command counts just the number of characters in a file?
+A command that counts the number of characters in a ``file``.
 
- * echo -c filename
- 
- * wc -l filename
- 
- * cat -l filename
- 
- + wc -c filename
+ * ``wc -w file``
+ * ``wc -l file``
+ + ``wc -m file``
+ + ``wc --chars file``
+ * ``wc -L file``
+ * ``wc -c file``
+ * ``cat file``

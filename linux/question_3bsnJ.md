@@ -1,7 +1,8 @@
-How many virtual consoles available in Linux?
-
-* 7
+The number of virtual consoles (terminals) available in Linux.
++ 7
 * 5
 * 2
+* 9
+* 11
+* 8
 * 1
-* 4
