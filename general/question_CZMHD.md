@@ -1,11 +1,11 @@
 Which of the following provides the basic computing resources for the computer system?
 
-  +CPU, Memory and I/O devices
+  + CPU, Memory and I/O devices
   
-  *Software, I/O devices
+  * Software, I/O devices
   
-  *Application programs
+  * Application programs
   
-  *Hardware, I/O devices
+  * Hardware, I/O devices
   
-  *Assembler and user
+  * Assembler and user
