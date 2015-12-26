@@ -1,6 +1,7 @@
-How can we display the permissions for a file or directory?
+A command that shows the permissions of the current directory.
 
-+ ls -a -l
-* ls -f -l
-* ls -a -d
-* ls -a -w
+* ``ls -l .``
+* ``ls -l``
+* ``ls -d .``
+* ``ls -ld``
+* ``ls -di .``
