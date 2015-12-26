@@ -1,6 +1,6 @@
 What language is used in GIT?
-+ C 
-* Java 
+* C
+* Perl 
 * Python
-* Ruby
++ All answers are true
 
