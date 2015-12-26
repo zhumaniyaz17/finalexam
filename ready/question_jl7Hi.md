@@ -1,7 +1,8 @@
-Which statements is true?
+A command that bans _other_ users from deleting files in the current directory.
 
-* chmod 777 increases your file's security
-* chmod changes file format
-* chmod means "check mode"
-* chmod command needs to change file permission
-* chmod 777 doesn't allow read/write for other users
+* ``chmod 123 .``
+* ``chmod ugo=rwx .``
++ ``chmod o-w .``
+* ``chmod u-w .``
+* ``chmod a+x .``
++ ``chmod 755 .``

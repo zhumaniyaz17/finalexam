@@ -1,7 +1,8 @@
-Result of '$ type echo' command:
+A command that determines file type of ``a.out``
 
-* type echo
-* type
-+ echo is a shell builtin
-* error
-* echo
+* ``type a.out``
++ ``file a.out``
+* ``filetype a.out``
+* ``typefile a.out``
+* ``which a.out``
+* ``strace ./a.out``

@@ -1,7 +1,9 @@
- pwd command displays
+A command that does not display the present working directory.
 
-+ present working directory
-* password file content
-* user password 
-* none of the mentioned
-* current time 
+* ``pwd``
++ ``echo $pwd``
++ ``echo ${pwd}``
+* ``echo $PWD``
+* ``echo $(pwd)``
+* `` echo `pwd` ``
+* ``echo $(echo $PWD)``
