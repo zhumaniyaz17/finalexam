@@ -1,9 +1,9 @@
 What is bash command?
 
-  *Determines the type of command 
+  * Determines the type of command 
 
-  *Displays on-line help 
+  * Displays on-line help 
 
-  +An interactive command interpreter 
+  + An interactive command interpreter 
 
-  *Displays the date and time
+  * Displays the date and time
