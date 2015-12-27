@@ -1,6 +1,7 @@
-What does Ubuntu mean?
-* Safe and Organic
-* Natural Beauty
-+ Humanity to Others
-* Best of that kind
+What does Ubuntu mean in Zulu?
 
+* safe and organic
+* natural beauty
++ humanity to others
+* best of that kind
+* Africa forever

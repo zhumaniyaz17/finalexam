@@ -1,6 +1,7 @@
-What mkfifo() creates?	
-* pipe
+What does `mkfifo()` system call create?
+
 * unnamed pipe
 + named pipe
-* msg queue
-* None of the above
+* message queue
+* socket
+* process
