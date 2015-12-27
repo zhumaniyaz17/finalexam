@@ -1,9 +1,7 @@
-System call that is the preferred way to create a new process.
+The system call that a process would issue to run `firefox` browser as a child process.
 
- +fork
- 
- *call
- 
- *wait
- 
- *echo
++ `fork`
+* `call`
+* `wait`
+* `exit`
+* `exec`

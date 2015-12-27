@@ -1,6 +1,7 @@
-Which of following is techniques for interprocess communication (IPC)?
+Which of following are techniques for interprocess communication (IPC)?
 
-* Fork, exec, sockets 
-+ Pipes, semaphore, sockets 
-* File, wait, signals 
-* Read, write, execute
+* fork, exec, sockets
++ pipes, semaphore, sockets
+* file, wait, signals
+* read, write, execute
+* files, system calls, rockets

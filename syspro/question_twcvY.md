@@ -1,9 +1,9 @@
-The print and printf statements can be told to send their output to other place except standard output, is called
+A phenomenon when `print` and `printf` statements in C are told to print to files other than `stdout`.
 
- +redirection
- 
- *redistribution
- 
- *reinsertion
- 
- *none of the mentioned
+* input redirection
++ output redirection
+* input redistribution
+* input reinsertion
+* output redistribution
+* output reinsertion
+* bullshit redirection

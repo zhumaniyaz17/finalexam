@@ -1,5 +1,7 @@
-By using which command its possible to find which process is taking how much CPU?
-+ top
-* rsync
-* cp
-* fgrep cpu
+A command that shows CPU usage of each running process among other things.
+
++ `top`
+* `rsync`
+* `cp`
+* `fgrep cpu`
+* `jobs`

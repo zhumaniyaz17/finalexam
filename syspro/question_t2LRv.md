@@ -1,9 +1,8 @@
-An awk program can be run by
+System call that returns the pid of the new child process.
 
- *including the program in the command that runs awk
- 
- *putting it into a file and run with a command
- 
- *running an executable awk script
- 
- +all of the mentioned
+* `getcpid()`
+* `getpid()`
+* `wait()`
++ `fork()`
+* `getppid()`
+* `execlp()`

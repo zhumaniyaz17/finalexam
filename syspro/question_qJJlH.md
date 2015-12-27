@@ -1,4 +1,5 @@
-A collection of process groups ( jobs):
+A collection of process groups (jobs).
+
 + session
 * controlling terminal
 * thread

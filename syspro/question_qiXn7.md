@@ -1,5 +1,7 @@
-Signals are often described as
+Signals are often described as ...
+
 * "software blocks"
 + "software interrupts"
-* "software pending"
 * "software control"
+* "software kicks"
+* "software cops"

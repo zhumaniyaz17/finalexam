@@ -1,4 +1,5 @@
-Assume the below code is saved in ``final.c``, compiled and run from the commands line as ``./a.out``. What will be the last line output to the screen?
+Assume the below code is saved in `final.c`, compiled and run from the commands line as `./a.out`. What will be the last line output to the screen?
+
 ```C
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -17,4 +18,5 @@ int main(){
 * ``#include <sys/stat.h>``
 * ``}``
 * ``#include <unistd.h>``
-* none option is correct
++ `execlp("grep","","--color=auto","<.*>",NULL);`
++ none option is correct

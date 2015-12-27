@@ -1,6 +1,8 @@
-System call that returns the process ID:
-* wait()
-* waitid()
-+ getpid()
-* fork()
-* vfork()
+System call that returns the pid of the terminated child process.
+
+* `getcpid()`
+* `getpid()`
++ `wait()`
+* `fork()`
+* `getppid()`
+* `execlp()`

@@ -1,5 +1,6 @@
-Which one is suitable for that definition "Synchronization mechanism for multi processes or threads, similar to a queue of people waiting for bathroom"?
+Synchronization mechanism for processes or threads, similar to a queue of people waiting for bathroom.
 * FIFO
-+ Semaphores 
++ Semaphores
 * Shared memory
 * Pipe
+* Kilogram
