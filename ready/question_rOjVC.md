@@ -1,9 +1,9 @@
-Which of the command can be used to get information about yourself(logged user)?
+A command that shows information only about the user associated with ``stdin``.
 
- * $ echo user
- 
- * $ cat user
- 
- + $ who am i
- 
- * There is no such command
+* ``echo $user``
+* ``cat /etc/passwd``
++ ``who am i``
+* none option is true
++ ``who is putin``
+* ``who -a``
++ ``who -m``

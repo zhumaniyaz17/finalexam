@@ -5,4 +5,5 @@ Two files that refer to the same inode on the same partition.
 * aliases
 * mount points
 * shortcuts
-* scripts
+* twins
+* i-diots
