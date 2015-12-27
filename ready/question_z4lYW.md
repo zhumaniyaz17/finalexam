@@ -1,5 +1,8 @@
-Which command allows to view the content of the file?
-+ tac
-* rm
-* crep
-* mv
+A command that shows the content of file `a.txt`.
+
++ `tac a.txt`
+* `rm a.txt`
++ `grep '.*' a.txt`
+* `cat > a.txt`
+* `echo a.txt`
+* `./a.txt`
