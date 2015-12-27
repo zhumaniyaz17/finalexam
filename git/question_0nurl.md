@@ -1,4 +1,7 @@
-What's the opposite of git clone, instead of downloading your code from GitHub, uploads your changes and code back to GitHub?
-  +git push  
-  *git clone
-  *git add
+A git command that uploads your local commits to GitHub repository.
+
++ `git push`
+* `git clone`
+* `git add`
+* `git pull`
+* `git fetch`
