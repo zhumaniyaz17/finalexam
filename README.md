@@ -1,7 +1,6 @@
 
-#### So, after having my lunch I am going to refine the already accepted questions.
 #### Production-ready questions will fall into ``ready`` directory (so you may be 99% sure they don't change)
-#### So far there 240 questions
+#### So far there 200+ questions
 #### If your questions were not accepted, refine them so that they are production-ready, not repeated, original, smart, state-of-the-art questions and MAYBE THEY WILL BE ACCEPTED by the end of the day
 #### Keep in touch with the base fork to see updates
 #### HAVE A NICE PREPARATION!!!
