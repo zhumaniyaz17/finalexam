@@ -1,8 +1,7 @@
-Complete definition
-... - the main part of any OS that controls hardware etc.
+The main part of any OS that controls hardware.
 
-* Shell
-* File
-* Kernel
-* Process
-* All of the above
+* shell
+* file
++ kernel
+* process
+* thread

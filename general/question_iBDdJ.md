@@ -1,7 +1,7 @@
 What does GNU stand for?
 
 + GNU is not Unix
-* General Unix
+* Global Network of Users
 * General Noble Unix
-* Greek Needed Unix
-* None of the above
+* Geek Needed Unix
+* Gnome Unix

@@ -1,4 +1,4 @@
-From the following which is not an RPM based OS.?
+From the following which is not an RPM based OS?
 
 * RedHat Linux
 * Centos

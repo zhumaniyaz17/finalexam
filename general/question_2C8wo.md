@@ -1,6 +1,7 @@
-How many primary partition is possible on one drive?
+How many primary partitions are possible on hard drive?
 
 * 1
 * 2
 + 4
+* 8
 * 16
