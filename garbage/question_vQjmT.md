@@ -5,3 +5,4 @@ Which command displays your current directory?
 + pwd
 * ls
 * man
+not ready yet

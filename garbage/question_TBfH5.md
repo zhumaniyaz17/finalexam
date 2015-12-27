@@ -5,3 +5,4 @@ Which command is used to create and display file in Linux?
 + cat
 * nano
 * None of the above
+not ready yet
