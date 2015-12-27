@@ -1,6 +1,6 @@
-How to uninstall the libraries in Ubuntu?
-* use command delete - drop library_name
-+ use command sudo apt – get remove library_name
-* use command sudo - remove
-* you cannot delete libraries
-
+How to uninstall a package in Ubuntu?
+* `rm package_name`
++ `sudo apt-get remove package_name`
+* `sudo remove package_name`
+* `sudo apt-get uninstall package_name`
+* `sudo apt-kick package_name`

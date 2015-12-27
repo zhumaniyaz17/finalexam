@@ -1,6 +1,7 @@
-What's the meaning of "RTFM"?
+What is the meaning of RTFM acronym?
 
-* "Read the flaming material"
-* "Road to fail midterm"
-+ "Read the fucking manual"
-* "Read the friendly manual"
+* Read The Flaming Material
+* Road To Fail Midterm
++ Read The Fucking Manual
+* Read The Friendly Manual
+* Read The Fantastic Manual
