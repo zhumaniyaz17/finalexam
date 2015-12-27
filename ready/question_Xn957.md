@@ -2,7 +2,7 @@ A command that shows ownerships, permissions and inode numbers of all the files 
 
 * ``ls -al``
 * ``ls -ai``
-* ``ls -ald``
-* ``ls -li``
+* ``ls -aldi``
++ ``ls -ali``
 * ``ls -il``
-* none option is true
++ none option is true
