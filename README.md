@@ -1,9 +1,4 @@
-
-#### Production-ready questions will fall into ``ready`` directory (so you may be 99% sure they don't change)
-#### So far there 200+ questions
-#### If your questions were not accepted, refine them so that they are production-ready, not repeated, original, smart, state-of-the-art questions and MAYBE THEY WILL BE ACCEPTED by the end of the day
-#### Keep in touch with the base fork to see updates
-#### HAVE A NICE PREPARATION!!!
+##### You may submit your t-shirts via a pull request. Put the picture(s) of you in the t-shirt and make pull request.
 
 # How to prepare for the final exam
 
