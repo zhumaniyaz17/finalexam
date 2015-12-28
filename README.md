@@ -1,4 +1,4 @@
-##### You may submit your t-shirts via a pull request. Put the picture(s) of you in the t-shirt and make pull request.
+##### You may submit your t-shirts via a pull request. Copy the picture(s) of you wearing the t-shirt to `tshirts` directory and make pull request. Example is in [tshirts](./tshirts) directory.
 
 # How to prepare for the final exam
 
